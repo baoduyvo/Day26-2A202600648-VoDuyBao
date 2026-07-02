@@ -178,4 +178,4 @@ Optional bonus:
 
 - add authentication for SSE or HTTP transport
 - support both SQLite and PostgreSQL with the same MCP surface
-- add richer output annotations or pagination
+- add richer output annotations or pagination# Day26-2A202600648-VoDuyBao

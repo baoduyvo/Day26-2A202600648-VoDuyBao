@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite3
+
+# Node / Inspector
+.npm-cache/
+node_modules/
